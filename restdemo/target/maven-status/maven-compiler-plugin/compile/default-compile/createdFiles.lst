@@ -1,0 +1,4 @@
+com\example\restdemo\repository\StationRepository.class
+com\example\restdemo\web\StationController.class
+com\example\restdemo\pojo\Station.class
+com\example\restdemo\RestdemoApplication.class
